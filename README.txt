@@ -1,0 +1,1 @@
+This are my notes. I'm not presenelty in any formal lecture classes, but I am generally an avid learner. I'm also community oriented and output focused. Accordly I'm posting my notes. Take whatever value you can gleam :)
