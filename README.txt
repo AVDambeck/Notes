@@ -1,1 +1,1 @@
-This are my notes. I'm not presenelty in any formal lecture classes, but I am generally an avid learner. I'm also community oriented and output focused. Accordly I'm posting my notes. Take whatever value you can gleam :)
+This are my notes and essays, from books, school, etc. I'm becoming a very rigrous notetaker and gennerally an avid learner. I'm also communithy and output focused. Accordly I'm posting my notes. Take whatever value you can gleam :)
