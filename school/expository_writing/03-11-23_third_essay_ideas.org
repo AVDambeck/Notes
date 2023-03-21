@@ -4,6 +4,7 @@
 
 * Workbook. 
 :LOGBOOK:
+CLOCK: [2023-03-21 Tue 13:56]--[2023-03-21 Tue 14:50] =>  0:54
 CLOCK: [2023-03-21 Tue 11:07]--[2023-03-21 Tue 11:11] =>  0:04
 CLOCK: [2023-03-20 Mon 12:31]--[2023-03-20 Mon 13:34] =>  1:03
 :END:
@@ -31,4 +32,23 @@ Thusly it is emotional flexibility that leads to happiness, for with it, the bes
 In a famous study, students ina collage photo course were less satisfed with their photos when they were given time to change their mind about which one they kept.
 ** Quote.
 When students are asked which version of the course they would like to participate in, Gilbert writes that
-"The bast majority preffered to have that opportunity- that is the vast majority of students preffered to enroll in a photogpraphy course in chich they would ultimately be dissatisfied with the photograph produced. Why would anyone prefer less satisfaction to more? No one does, of course, but most people do seem to prefer more freedom to less" (Gilbert 151)
+"The bast majority preffered to have that opportunity- that is the vast majority of students preffered to enroll in a photogpraphy course in chich they would ultimately be dissatisfied with the photograph produced.
+Why would anyone prefer less satisfaction to more? No one does, of course, but most people do seem to prefer more freedom to less"
+(Gilbert 151)
+** Analasys.
+A single lab number, such as the studen's reported happiness, is not a good predictor of how people will act in practice.
+Unless the participants are victim to some bias or stupidity which prevents them from understanding the situation, the participants have higher, or at least more complex, aspirations than pleasure of satisfaction in with their photos.
+A hedonist analysis would argue that there must therefor be a kind of pleasure that comes from the participant's enacting on their desire for freedom.
+If a participant were to choose 
+
+When consciously aware of this phenomenon, that is when one knows they have chose the harder of two options, can act to rationalize one's actions.
+
+** Quote.
+Fredrickson says
+"the agiility of the conuit between their brains and hearts-as reflected in their high vagal tone- allows them to be exquisitly agile, attuned, and flexible as they navigate the ups and downs of day-to-day life and social exchanges." 
+
+* Body Two.
+** Topic.
+Because humans are products of evolution and nature, there are ways in which human brains are not rational. Understanding the brain and its eccentricities are the only way to reach true happiness.
+** Quote.
+Gilbert writes that ignorance of ones psychological biases "causes us to mispredict the circumstances under which we will blame others, but it also causes us to mispredict the circumstances under which we will blame ourselves" (Gilbert 146).
