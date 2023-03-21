@@ -5,20 +5,24 @@
 * Trying Something New!
 I learned a lot about org mode, and am trying to integrate it into my essay process. Firstly I'm just doing my prep work in an org doc. Second, and the real reason I want to, is to organize my ideas in a broken down orgy way. :)
 
-* Revision Formula. [1/9]
-1. [X] Make prep document.
-2. [ ] Break first draft out into ideas.
-3. [ ] Iterate ideas. [0/7]
-   1. [ ] Add new ideas.
-   2. [ ] Connect ideas.
-   3. [ ] Invert ideas.
-   4. [ ] Consider the prompt.
-   5. [ ] Find support for ideas.
-   6. [ ] Steal peer's ideas.
-   7. [ ] Agree and disagree on ideas.
-4. [ ] Consider the ideas, their flow, and a thesis.
-5. [ ] Write a thesis.
-6. [ ] String ideas off of the thesis.
-7. [ ] New outline.
-8. [ ] Write new draft.
-9. [ ] Reflect on draft. 
+* DONE Revision Formula. [1/9]
+** DONE Make prep document. 
+- State "DONE"       from "TODO"       [2023-03-11 Sat 21:36]
+** TODO Break first draft out into [[file:03-11-23_third_essay_ideas.org][ideas]].
+:LOGBOOK:
+CLOCK: [2023-03-11 Sat 21:37]--[2023-03-11 Sat 21:58] => 16:21
+:END:
+** TODO Iterate ideas. [0/7]
+1. [ ] TODO Add new ideas.
+2. [ ] TODO Connect ideas.
+3. [ ] TODO Invert ideas.
+4. [ ] TODO Consider the prompt.
+5. [ ] TODO Find support for ideas.
+6. [ ] TODO Steal peer's ideas.
+7. [ ] TODO Agree and disagree on ideas.
+** TODO Consider the ideas, their flow, and a thesis.
+** TODO Write a thesis.
+** TODO String ideas off of the thesis.
+** TODO New outline.
+** TODO Write new draft.
+** TODO Reflect on draft. 

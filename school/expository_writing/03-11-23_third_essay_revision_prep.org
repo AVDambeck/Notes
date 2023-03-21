@@ -10,6 +10,8 @@ I learned a lot about org mode, and am trying to integrate it into my essay proc
 - State "DONE"       from "TODO"       [2023-03-11 Sat 21:36]
 ** TODO Break first draft out into [[file:03-11-23_third_essay_ideas.org][ideas]].
 :LOGBOOK:
+CLOCK: [2023-03-21 Tue 11:04]--[2023-03-21 Tue 11:12] =>  0:08
+CLOCK: [2023-03-20 Mon 12:42]--[2023-03-20 Mon 13:03] =>  0:21
 CLOCK: [2023-03-11 Sat 21:37]--[2023-03-11 Sat 21:58] => 16:21
 :END:
 ** TODO Iterate ideas. [0/7]
