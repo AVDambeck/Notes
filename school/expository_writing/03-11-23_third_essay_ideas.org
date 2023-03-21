@@ -1,0 +1,34 @@
+#+DATE: [2023-03-11 Sat]
+#+AUTHOR: Kitkat Dambeck
+#+TITLE: Expsoitory Writing - Third Essay Ideas.
+
+* Workbook. 
+:LOGBOOK:
+CLOCK: [2023-03-21 Tue 11:07]--[2023-03-21 Tue 11:11] =>  0:04
+CLOCK: [2023-03-20 Mon 12:31]--[2023-03-20 Mon 13:34] =>  1:03
+:END:
+
+* Introduction Paragraph.
+** General thought, getting more specific
+Hedonism asserts that human motivation is driven by the desire for pleasure.
+For some, it is an ethical doctrine, holding that what maximize pleasure for the individual is right, or the basis for Utilitarianism, holding that the right action is what maximizes the happiness and well-being for the most people. 
+Since the time of Socrates, hedonism has been criticized for being self-destructive, even "sinful," and for appealing to carnal and earthly motivations.
+However, such assertion are made on a shallow understanding of hedonism.
+** Introduce Authors.
+Positive Psychologist Daniel Gilbert has spent many years studying the often counter intuitive cognitive biases that can help or hinder one's experience of happiness, and reports these findings in /Stumbling Into Happiness/. 
+Positive Psychologist Barbara Fredrickson, author of /Love 2.0/, studies the cultivation of "love" and its role as a precursor to happiness.
+** Thesis.
+Because of the fickle nature of pleasure, an intelligent hedonist knows that true happiness is the result of understanding oneself and being emotionally flexible. Therefore, attaining true happiness necessitates the cultivation of these qualities.
+* Body One.
+** TODO [0/4]
+- [ ] Topic sentence is general.
+- [ ] Name of the study.
+- [ ] Remove summery.
+- [ ] First quote is too long.
+** Topic Sentence. Get to the point asap.
+Pleasurable moments are fleeting.
+Thusly it is emotional flexibility that leads to happiness, for with it, the best can be made out of any scenario.
+In a famous study, students ina collage photo course were less satisfed with their photos when they were given time to change their mind about which one they kept.
+** Quote.
+When students are asked which version of the course they would like to participate in, Gilbert writes that
+"The bast majority preffered to have that opportunity- that is the vast majority of students preffered to enroll in a photogpraphy course in chich they would ultimately be dissatisfied with the photograph produced. Why would anyone prefer less satisfaction to more? No one does, of course, but most people do seem to prefer more freedom to less" (Gilbert 151)

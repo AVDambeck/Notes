@@ -1,0 +1,161 @@
+#+TITLE: Learning Org Mode
+#+AUTHOR: Kitkat
+
+* Headings.
+Headings are indicated with asterisks. More asterisks lower headings.
+M-RET to insert a new heading on the same level.
+While the point is in a heading, use tab to cycle the level.
+M-LEFT/RIGHT to change the heading level.
+M-UP/DOWN to move the heading and contents.
+
+** Visibility.
+C-u TAB cycles visibility of the heading at the point. C-u C-u C-u TAB shows all headings after point.
+
+*** Sparce Trees.
+A sparce tree is one that contains only a few of the headings of the whole tree. C-c / is used to create a sparce tree based on certain criteria. For example, C-c / r searches regex. Searching 'query' will change visibility so that only those headings containing 'query' will be visible.
+
+** Motion.
+All of these start with C-c.
+- C-c C-n: next heading.
+- C-c C-p: previous heading.
+- C-c C-f: forward to next same level heading.
+- C-c C-b: backwards to previous same level heading.
+- C-c C-u: up to a higher level heading.
+  
+** Header to buffer.
+C-x n s to make the current subtree into a buffer.
+C-x n w to escape.
+
+* Modifying Headers.
+** Todo.
+
+- State "DONE"       from "TODO"       [2023-03-11 Sat 10:43]
+*** DONE Test todo items.
+Any heading becomes a todo item when it stats with 'TODO'
+Use C-c C-t to rotate the todo state of the current heading. If desired, these states can be [[https://orgmode.org/guide/Hyperlinks.html][modified.]]
+Use C-u C-c C-t to mark the item as done, add a timestamp, and a comment (optional). How this works can also be [[https://orgmode.org/guide/Progress-Logging.html][modified]].
+
+*** TODO [#A] Make another todo item.
+Todo items can have priority. A is the highest, B the default, and C the lowest. use C-c , to set the priority. 
+
+*** TODO Multi-task item [1/3].
+Insert [%] or [/] to make an item into a multi task item.
+**** DONE One.
+**** TODO Two [66%].
+- [X] This also works with checkbox [[Lists.]]
+- [-] Even in layers! [1/2]
+  - [X] ooo.
+  - [ ] ahh.
+- [X] Check items with C-c C-c.
+** Tags.
+Headings can contain tags, surrounded by colons.
+Tags are inherited. For example, "buy soap" below is also tagged shores and urgent. #+FILETAGS: can also be used to tage every heading in a file. 
+
+*** Learn about tags                                                    :edu:
+*** Clean my bathroom                                         :chores:urgent:
+**** Buy soap                                                        :errand:
+*** Clean dishes                                                     :chores:
+
+*** Adding Tags. 
+C-c C-q can add a tag, and offers completion of tags. C-c C-c in a headline also does the same.
+The list of tags is gathered dynamically from the existing tags in the file, however tags can be added to org-tag-alist or by using #+TAGS:. When adding tags this way, a single hot key can be specified. ex #+TAGS: @work(w) will make C-c C-q w add work tag to the current heading.
+
+** Properties.
+Value pairs associated with an entry.
+*** Book
+  :PROPERTIES:
+  :Title: Catcher in the Rye
+  :Author: J.D. Salinger
+  :Year: 1951
+  :Publisher: Little, Brown and Company
+  :END:
+
+** Time.
+This is a time stamp: [2023-03-11 Sat]. Use pointy brackets to show them in the agenda, or square to not. Use two dashes between them to make a range: [2023-03-11 Sat]--[2023-03-13 Mon]. They can include times: [2023-03-11 Sat 12:23]. Even repeating intervals: [2023-03-11 Sat 12:00 +12]. [[https://orgmode.org/guide/Timestamps.html][More]].
+A heading will be assigned the date with in it. 
+*** Meet Grace for coffee.
+<2023-03-15 Wed 15:30>
+*** Inserting.
+- C-c . :: Prompt for a date and insert the time stamp. If the point is in a time stamp, it will modify the existing timestamp instead. If used twice, it adds a time range.
+- C-c ! :: like C-c . but uses an inactive time stamp (wont show in agenda).
+- S-LEFT/RIGHT :: Change the date at point by one day.
+- S-UP/DOWN :: Shift the date format around.
+*** Deadlines.
+DEADLINE: <2023-03-12 Sun>
+Deadlines will show up in the agenda. Can be made repeatable.
+*** Scheduling.
+SCHEDULED: <2023-03-21 Tue>
+Scheduled tasks show up in the agenda. Can be made repeatable.
+*** Clocking.
+For tracking time spent on particular items.
+- C-c C-x C-i :: Starts the clock on the current item. If it doesn't have one yet, it adds a log book.
+- C-c C-x C-o :: Stops the clock.
+- C-c C-x C-q :: Cancel the current clock.
+- C-c C-x C-j :: Jump to the headline of the currently clocked task. 
+
+**** Some Task.
+:LOGBOOK:
+CLOCK: [2023-03-11 Sat 13:57]--[2023-03-11 Sat 14:05] =>  0:08
+CLOCK: [2023-03-11 Sat 13:56]--[2023-03-11 Sat 13:56] =>  0:00
+:END:
+* Lists.
+- Unordered list items start with - + or * as bullets.
+- Ordered list items start with #. or #).
+- Description lists uses '::' to separate the term from the description.
+
+Use C-c - to cycle the bullets. 
+Use TAB to fold items like headings. 
+Use M-RET to insert a new item at the current level.
+Use M-S-UP/DOWN/LEFT/RIGHT to move and indent list items just like headings.
+Use M-S-LEFT/RIGHT to move only the current item.
+Use C-c C-c to check or uncheck the current item.
+
+* Tables.
+Org Mode does a lot of very smart spreadsheet stuff. Begin a table with pipes, and using TAB or RET it automatically makes, sizes, resizes, and extends the table for you. See Emacs Calc package to do spreadsheet math magic.
+
+** Example Table
+This is an example table.
+| Key Scale | Sephiroth | English Name  | Queen Scale                    |
+|-----------+-----------+---------------+--------------------------------|
+|         1 | Kether    | Crown         | White                          |
+|         2 | Chokmah   | Wisdom        | Gray                           |
+|         3 | Binah     | Understanding | Black                          |
+|         4 | Chesed    | Benevolence   | Blue                           |
+|         5 | Geburah   | Severity      | Red                            |
+|         6 | Tiphereth | Beauty        | Yellow                         |
+|         7 | Netzach   | Victory       | Green                          |
+|         8 | Hod       | Splendor      | Orange                         |
+|         9 | Yesod     | Foundation    | Purple                         |
+|        10 | Malkuth   | Kingdom       | Citrine, olive, russet & black  |
+
+** Hot Keys
+- Insert Table :: C-c |
+- Re-Align Table :: C-c C-c
+- Next Field :: TAB
+- Previous Field :: S-TAB
+- Field Below :: RET
+- Swap Cells :: S-UP/DOWN/LEFT/RIGHT
+- Move Column :: M-LEFT/RIGHT
+- Kill Column :: M-S-LEFT
+- Insert Column Left :: M-S-RIGHT
+- Move Row :: M-UP/DOWN
+- Kill Row :: M-S-UP
+- Insert Row Above :: M-S-DOWN
+- Insert Horizontal Line :: C-c -
+- Insert Line and Move Below it :: C-c RET
+- Sort Table :: C-c ^
+
+* Links.
+Format links like this =[[duck.com][duckduckgo]]= [[duck.com][duckduckgo]]
+Use C-c C-l to edit or insert a link.
+Org mode can link to:
+- Websites ;; [[duck.com]]
+- Headings ;; [[Headings.]] 
+- Files ;; [[/home/kitkat/.emacs.d/init.el::10]]
+- Email ;; [[mailto:audiovisual@dambeck.org]] 
+- And [[https://orgmode.org/guide/Hyperlinks.html][more]]!
+
+Use org-store-link to store a link to the current location. Then use C-c C-l UP to insert a link from the history.
+
+* Capture.
+Capture lets you quickly store notes. 
