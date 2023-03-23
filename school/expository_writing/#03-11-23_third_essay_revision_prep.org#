@@ -12,12 +12,13 @@ I learned a lot about org mode, and am trying to integrate it into my essay proc
 - State "DONE"       from "TODO"       [2023-03-11 Sat 21:36]
 ** TODO [[file:03-11-23_third_essay_ideas.org][Redraft]].
 :LOGBOOK:
+CLOCK: [2023-03-23 Thu 12:04]
 CLOCK: [2023-03-21 Tue 11:04]--[2023-03-21 Tue 11:12] =>  0:08
 CLOCK: [2023-03-20 Mon 12:42]--[2023-03-20 Mon 13:03] =>  0:21
 CLOCK: [2023-03-11 Sat 21:37]--[2023-03-11 Sat 21:58] => 16:21
 :END:
-** TODO Iterate ideas. [0/8]
-1. [ ] TODO Add new ideas.
+** TODO Iterate ideas. [1/7]
+1. [X] TODO Add new ideas.
 2. [ ] TODO Connect ideas.
 3. [ ] TODO Invert ideas.
 4. [ ] TODO Consider the prompt.

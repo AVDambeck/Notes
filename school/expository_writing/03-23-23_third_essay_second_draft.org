@@ -1,0 +1,41 @@
+#+DATE: [2023-03-23 Thu]
+#+AUTHOR: Kitkat Dambeck
+#+TITLE: Expository Writing - Third Essay Second Draft
+
+* Workbook.
+:LOGBOOK:
+CLOCK: [2023-03-23 Thu 12:43]--[2023-03-23 Thu 13:29] =>  0:46
+:END:
+
+* Introduction Paragraph.
+** Specific Generalization.
+A hedonist is someone that seeks pleasure, and avoids pain.
+Hedonism has origins with the Epicurians of ancient Greece and Rome, and has had a textured history, particularly with moralistic Christians.
+However hedonism, especially as a basis for Utilitarianism, has become an effective method of analysis in psychology, as was as a paradigm among individuals.
+For as simply stated a basis as "seek pleasure, avoid pain", practically achieving this motto is still a great challenge.
+The aim of such a motto is summed as "happiness," but the specifics of what "happiness" is will vary on the development of the aspirant. 
+** Introduce author.
+The human brain is a product of evolution, and brings with it many counter intuitive functions that can hinder the pursuit of happiness. Positive Psychology Daniel Gilbert has spent many years studying these phenomenon, publishing their findings in /Stumbling Into Happiness/.
+Another Positive Psychologist, Barbara Fredrickson, author of /Love 2.0/, studies the cultivation of "love" and its role as a precursor to happiness.
+** Thesis.
+Because the specific content of happiness varies depending on the development of the aspirant, a wise hedonist must be self-aware and flexible, so that they can pursue their happiness in the most effective way.
+* Body One.
+** Topic.
+Before confronting suffering, suffering seems eternal. However, this paradigm is eventually replaced.
+** Quote
+Gilbert writes "We blithely assume that the dreadful view we have when we look forward to the event is the dreadful view we'll have when we look back on it. In short, we do not realize that our views will change becuase we are normally unaware of the processes that change them" (Gilbert 144).
+The human brain in its 'state of nature', or rather with its factory firmware, is not well equipped to make acuate predictions about its own future emotional state.
+** Anal
+The principal effect of this is that suffering can seem permanent, and to be avoided at all costs.
+The key word is "seem"; This is an element of perception, rather an illusion, not of truth.
+When lost in this illusion, the aspirant may try to restrict themselves only to pleasure, and become frustrated when their attempts fall through.
+By reckoning with the fluid nature of their emotions, the aspirant learns two things:
+that the nature of any particular pain is temporary, and that everything, pleasant or otherwise, is impermanent.
+** Quote
+Fredrickson said "Impermanence is the rule- constant change, the only constancy. True for all things, this is especially true for living things, which change or adapt as needed in response to changes in context."
+** Anal
+How is the hedonist, who avoids pain and seeks pleasure, to respond to this?
+If they want to avoid pain, they aught to avoid the pain of loss.
+However, simply willing this is not enough.
+It may perhaps even be in possible. 
+Instead, the hedonist must be ready to face loss, and know that even loss is temporary. 
