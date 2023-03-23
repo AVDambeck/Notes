@@ -2,26 +2,28 @@
 #+AUTHOR: Kitkat Dambeck
 #+TITLE: Third Essay Revision Prep
 
+
+
 * Trying Something New!
 I learned a lot about org mode, and am trying to integrate it into my essay process. Firstly I'm just doing my prep work in an org doc. Second, and the real reason I want to, is to organize my ideas in a broken down orgy way. :)
 
 * DONE Revision Formula. [1/9]
 ** DONE Make prep document. 
 - State "DONE"       from "TODO"       [2023-03-11 Sat 21:36]
-** TODO Break first draft out into [[file:03-11-23_third_essay_ideas.org][ideas]].
+** TODO [[file:03-11-23_third_essay_ideas.org][Redraft]].
 :LOGBOOK:
 CLOCK: [2023-03-21 Tue 11:04]--[2023-03-21 Tue 11:12] =>  0:08
 CLOCK: [2023-03-20 Mon 12:42]--[2023-03-20 Mon 13:03] =>  0:21
 CLOCK: [2023-03-11 Sat 21:37]--[2023-03-11 Sat 21:58] => 16:21
 :END:
-** TODO Iterate ideas. [0/7]
+** TODO Iterate ideas. [0/8]
 1. [ ] TODO Add new ideas.
 2. [ ] TODO Connect ideas.
 3. [ ] TODO Invert ideas.
 4. [ ] TODO Consider the prompt.
 5. [ ] TODO Find support for ideas.
 6. [ ] TODO Steal peer's ideas.
-7. [ ] TODO Agree and disagree on ideas.
+7. [ ] TODO Agree and disagree on ideas. 
 ** TODO Consider the ideas, their flow, and a thesis.
 ** TODO Write a thesis.
 ** TODO String ideas off of the thesis.
@@ -31,7 +33,7 @@ CLOCK: [2023-03-11 Sat 21:37]--[2023-03-11 Sat 21:58] => 16:21
 
 
 * Free write.
-[2023-03-21 Tue 14:53]
+** [2023-03-21 Tue 14:53]
 My essay is tied in knots and not making sence to me anymore.
 Hedonism is when pleasure motivates action.
 Happiness is the result of pleasure?
@@ -64,3 +66,36 @@ there is a conflict between the monkey brain and the equalibrium.
 gilert doesn't have a lot of praxis, just that learning about some of the ways that you repond to your emotional environment work unituitivly.
 Claim: if you want to be happy: choose the hard options.
 Claim: you shoudl abandon pleasure to pursue nirvana.
+
+** [2023-03-22 Wed 16:29]
+*** Thesisiss.
+Happiness is the point of life.
+Happiness is a state of pleasure, however bliss is a higher state of pleasure. Therefore hedonists seek the short path to happiness, and the long path to bliss.
+*** Clever Hans and emtional stability. 
+Clever hans: Should Osten continue in ignorant bliss? Is the joy of teaching a horse math greater than that of truth? How do you make unpleasent truths happy?
+Humility as a key skill.
+What does clever hans teach us about happiness? That it can be illusary? That chacing it uncritically can lead us into deep states of confusion.
+"Clever Hans was no genius, but Osten was no fraud. Indeed, he'd spent years patiently talking to his ~orse about mathematics and world a~, ~d he was genuinely shocked and dismayed to learn that he had been fooling hunself" 143.
+Happiness is a core motivater of human action. Osten was motivated by the joys of a new scientific discovery, that dedicated a huge amount of work into Clever Hans.
+However, Osten was not aware of the shakey ground which that hapiness was built on. When it finally collapsed, they experienced a great amount of unpleasent emotions.
+If one is to maintain their long term hapiness, they must be sure that they build their happiness on stable ground.
+*** Clever hans related to eros.
+Let us examine happiness through the lense of love.
+"When you equate love with intimate relationships, love can seem confusing. At times it feels great, while at othe_r times it hurts like hell. At times it lifts you up with grand dreams for your future and at other times oppresses you with shame about your inade- quacies, or guilt about your past actions." 120
+Love, as in agape, is an eternal virtue, seperate from its fickle contexual counter part, eros. When these eros, intamcy, is equated with agape, true love, it becomes confuesd, uncertain, and non-eternal.
+Similarly, the contexual joy, like that experiencd by Osten, is subject to disruption.
+Just as the path to Agape is entertwined, but not contained within, the path to Eros, the path to true happiness is entertwined but not contiand with the path to pleasure.
+In fact, the paths toward agape and true happiness are also entertwined.
+*** Inpermanence.
+"Impermanence is the rule---constant change, the only constancy. True for all things, this is especially true for living things, which, by definition, change or adapt as needed in response to changes in context." 121
+Because emotions are in permanent, the low happiness is fleeting.
+There is an art to jumping into happy moments, but to live in them is simply unrealistic.
+One may find themselves frustrated at this, but it is only by accepting this simple fact of realisty which one can set their sights higher, towards blis.
+
+*** The Dao that can be named.
+"The Dao that can be told is not the eternal Dao, The Dao that can be told is not the eternal Dao" are the opening lines of the tao de ching.
+Just as living in harmony with the ineffible Dao is a task no scholar can tell you the specifics, happiness is a similarly ineffible path. in this essay i will
+*** FAQ
+What is pleasure: desirable sensations. The feel good chemicals in the brain, food sex drugs endorphins etc. But also refined pleasures such as aw, art, satisfaction, etc.
+What is happiness: A state of bliss, fleeting, lasting, or eternal. Often but not always arising out of pleasure.
+What is pain: A particular responce in the brain, ussally indicating damage to the body.

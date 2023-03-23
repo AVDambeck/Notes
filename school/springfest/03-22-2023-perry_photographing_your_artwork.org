@@ -1,0 +1,89 @@
+* Equipment.
+Art work.
+Phone cameras are getting pretty good. Generally sufficient for photographing artwork.
+White or black backdrop.
+Light, natural or artificial.
+Optional: Tripod.
+Optional: Painters tape or Gaffers tape.
+* Why take pictures of art?
+- For portfolio (grant, residency, jobs, etc)
+- Online presence
+  "You would have recieved the grant if the photos of your work were better" -real quote by a grant person recieved by an artist.
+* Challenges.
+Photos are fundementally different than an in person experience.
+Artists often focus more on the in person art experience, rather than a digital image.
+Artwork photography is a particular niech. Present the art in a straightforward and focused way. Different than instagramy studio pictures.
+* Elements.
+Use default/standard options before deviating. 
+** Background.
+Clean, neutral, least distracting context for your art.
+Big enough to surround art with a decent margin.
+Be nit picky about scuffs, dirt, holes, etc
+Bad examples: Easily with messy studio. Wood panel wall.
+Watch out for shadows.
+Background can be completely removed, or left to show context of the wall. The latter can show the depth, scale, texture, space, etc of the work.
+Seamless: no folds or creases. The swoop-y green screen corner
+*** Black vs white:
+Black velvet absorbs light
+| Black                | White                                 |
+| Makes object pop     | More standard option                  |
+| Shows small details  | Simulates gallery wall                |
+| Accents light colors | Blends with white website backgrounds |
+** Lighting.
+Choose the right type of light, and pay attention to where the shadow falls
+Want: soft, clean, neutral, bright light.
+Dont want: harsh, direct, ovehead, colored, warm, or flash.
+Dont want: reflections or shadows.
+You don't nescisarrily need expencive professional lighting equipment. Natural lighting is very good.
+Soft lighting: evenly from all sides. EX. cloudy/overcast sun, diffusion film.
+Harsh lighting: From a single point, bright with hard shadows. EX. direct sun light, spot light, camera flash.
+*** Sources.
+Natural: Ovecast day, in shade on a sunny day.
+Artificial: even overhead light, one light on either side of the artwork. 
+*** Meuseum super professional set up.
+Camera straight on the art.
+White lights on ether side, 45 degrees off axis from the camera.
+Umbrella diffusion
+** Dimension.
+Painting vs sculpture. Flat image vs deep image vs textured image. surface vs space.
+*** Straight Lines.
+Perspective can effect the edges. Generally, you want the work very straight on as to minimize skew.
+Conversely, can be used to show space. EX. installation image of a gallery might show the corners of the room straight up and down, but the walls on perspective. 
+Be directly in the center of the art, both horizontally and vertically.
+If mounting on the floor, make sure to be directly above the art.
+Possible to correct digitally, but ideal to fix it analogue. 
+** Accurate Color.
+Ideally the colors will match the in person color as closely as possible.
+Temperature setting in camera.
+Light color, keep white!
+** Scale.
+How big the art is.
+Person on the side can show the scale relative to a person. Make sure the person is of neutral appearance e.g. bright colored clothes. 
+cool trick: long exposure to create a blurred figure. Need a tripod and a manual camera mode.
+Dimension can be used to show scale via perspective. See dimension. 
+** Mounting.
+Wall or floor.
+Floor can get even lighting from an overhead light, however be careful to stay centered and straight on, and to get far enough back from the art.
+Artist tape or gaffers tape are essential tool kit items. Gaff is stronger and stickier, but will damage art. 
+Get art to lie flat against the surface, especially if is on paper.
+Make sure the full work is visible, but not any tape or nails.
+** Sculpture.
+Quick and dirty suggestions from q&a at the end.
+Soft lighting. Crevasses need a little light but not much.
+Perspective is important.
+Location of the camera is more important. Show the front or back.
+Detail shots: show the texture and material. Look out, some applications forbid these. 
+More than one picture. 
+* Questions.
+** What is different using a big girl camera?
+My 5 year old cheapo phone deoesnt have a nice camera.
+Higher resolution image.
+More light and color information.
+Low ISO: ~100. Reduces grain.
+Aperture: Higher aperture, especially for installation. Maintains detail over a distance. ~f22.
+Exposure: Long. ~5 seconds.
+Focal length: Wide angle for larger spaces; captures more spacial information. ~15mm-40mm.
+Wide angle can create a fish eye lens. This is generally to be avoided.
+** Post Processing.
+Using a highlight function will usually effect just the white background.
+Lightroom is the professional standard.
