@@ -1,0 +1,48 @@
+* What is charecter design.
+Who the charecter is and what they do.
+** Big quesitons.
+Why do they look that way?
+Where do they come from?
+What is ther personality?
+What makes this charecter unique?
+What can be removed from the deisgn? what isn't playing a function?
+In a quick draw, what details would get drawn last?
+* Fundementals.
+** Complexity
+The design will be repeated a ton of times. eg minimalism is good.
+Remove as many details as possible without removing core aspects.
+Comics are more forgiving to complexity. 3d animaion is also forgiving.
+*** Charecter elements that make it difficult to animate
+- Fabrics with paterns/embrodery.
+- Lots of dangly hair, charms, etc.
+- Complex tatoos.
+- Complicated color pallet.
+- Complicated in general.
+** Sillhouette.
+A good design will be readable with only a sillhouette.
+Contrast different charecters in the cast.
+Different body types, hair styles, clothing/fasion, etc. 
+** Meaning/history.
+Each element needs a reason.
+Minimalism. 
+** Pitfalls
+- Overly complex
+- Cleche or generic.
+- Weak silhouette.
+- Borning or tacky colors.
+
+** Documention.
+Charecter referances.
+Leaving notes about charecters and the significance of the features. 
+* Animation vs comics.
+Comics is more forgiving, and can have more detailed designs.
+* Exercises.
+1. Take a song (favorite song/shuffle your playlist) and design a character based on that song
+2. Take a pre existing character and change their design
+  Ex: human versions of anthro characters, anthro versions of human characters.
+  Ex. What would they look like if they were in 1920s America, or from starwars. 
+3. Listen to a podcast and design the characters. 
+  You get the character’s voice and personality, but little to no descriptors of what they look like
+4. Turn plants into people/animals
+5. Google “character design challenge,” you’ll get a prompt list of themes to design characters to :000
+
