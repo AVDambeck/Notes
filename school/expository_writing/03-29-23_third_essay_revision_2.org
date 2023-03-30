@@ -1,8 +1,53 @@
-* List of things to address
-- [ ] focus on happiness / return to the prompt.
-- [ ] Clearity in the thesis statement. Really try and be specific.
-- [ ] MLA indents = 0.5
-- [ ] When introducing a new idea, motivation, hedonism, etc, connect it back to the prompt before, or asap.
-- [ ] When raising an example, connect to the text, rather than introduce own experience.
-- [ ] When introducing quotes, use present tense.
-- [ ] Look at the comments / letter and see where you engaged people vs lost people. 
+* DONE Revision Formula. [1/11]
+** DONE Make prep document. 
+:LOGBOOK:
+CLOCK: [2023-03-30 Thu 14:06]--[2023-03-30 Thu 14:23] =>  0:17
+:END:
+** TODO Read Mottos outloud.
+- How do we define happiness?
+  - What about my view of happiness is arguable?
+- Focus on prompt!
+- Specific and clear thesis statment.
+- Do MLA against the owl's instruction.
+- Connect all ideas to the prompt.
+** TODO Write thesis.
+- Initial :: Because the specific content of happiness varies depending on the development of the aspirant, a wise hedonist must be self-aware and flexible, so that they can pursue their happiness in the most effective way.
+- Iterate ::
+- Iterate ::
+- Iterate ::
+** TODO Analyse the prompt.
+** TODO Free write [0/3].
+*** TODO A.
+*** TODO Look at comments and see where I lost people. Then explain more. 
+*** TODO B.
+*** TODO C.
+** TODO Write thesis again.
+- Initial ::
+- Iterate ::
+- Iterate ::
+- Iterate ::
+** TODO New outline.
+** TODO Write new draft.
+** TODO Iterate ideas. [0/8]
+1. [ ] Connect ideas.
+2. [ ] Consider the prompt!
+3. [ ] Tell how and why!
+4. [ ] Invert ideas.
+5. [ ] Steal peer's ideas.
+6. [ ] Connect ideas to thesis and to prompt.
+7. [ ] Add new ideas.
+** TODO Reflect on draft. 
+*** How did you address each of the mottos?
+*** What went well? How and why?
+*** What went poorly? How and why?
+*** Check list [0/8].
+- [ ] 1700 words
+- [ ] At least three body paragraphs.
+- [ ] Each paragraph has at least four sentences.
+- [ ] No paragraph fills a whole page.
+- [ ] Correct MLA. 
+- [ ] Present tense introducing the quotes.
+- [ ] Clear and specific thesis.
+- [ ] Responds to the prompt.
+
+** TODO Upload.

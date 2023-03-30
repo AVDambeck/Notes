@@ -2,8 +2,6 @@
 #+AUTHOR: Kitkat Dambeck
 #+TITLE: Third Essay Revision Prep
 
-
-
 * Trying Something New!
 I learned a lot about org mode, and am trying to integrate it into my essay process. Firstly I'm just doing my prep work in an org doc. Second, and the real reason I want to, is to organize my ideas in a broken down orgy way. :)
 
