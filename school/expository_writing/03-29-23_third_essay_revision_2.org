@@ -1,32 +1,108 @@
-* DONE Revision Formula. [1/11]
+* DONE Revision Formula. [6/11]
 ** DONE Make prep document. 
 :LOGBOOK:
 CLOCK: [2023-03-30 Thu 14:06]--[2023-03-30 Thu 14:23] =>  0:17
 :END:
-** TODO Read Mottos outloud.
+** DONE Read Mottos outloud.
 - How do we define happiness?
   - What about my view of happiness is arguable?
 - Focus on prompt!
 - Specific and clear thesis statment.
-- Do MLA against the owl's instruction.
 - Connect all ideas to the prompt.
-** TODO Write thesis.
+- Do MLA against the owl's instruction.
+** DONE Write thesis. Claim + Reason = Argument
+:LOGBOOK:
+CLOCK: [2023-03-30 Thu 20:17]--[2023-03-30 Thu 20:40] =>  0:23
+:END:
 - Initial :: Because the specific content of happiness varies depending on the development of the aspirant, a wise hedonist must be self-aware and flexible, so that they can pursue their happiness in the most effective way.
-- Iterate ::
-- Iterate ::
-- Iterate ::
-** TODO Analyse the prompt.
-** TODO Free write [0/3].
-*** TODO A.
-*** TODO Look at comments and see where I lost people. Then explain more. 
-*** TODO B.
-*** TODO C.
+- Iterate :: Happiness is a pattern of psychological phenomenon, the cultivation of which is a skill which can be practiced.
+- Iterate :: Because happiness is simply a desirable mood, pursuit of it is best informed with a scientific approach.
+- Iterate :: Intuition is not a reliably indicator of what will lead to happiness. Therefore, to attain happiness reliably, one needs a scientific approach.
+** DONE Analyze the prompt.
+:LOGBOOK:
+CLOCK: [2023-03-30 Thu 20:40]--[2023-03-30 Thu 20:49] =>  0:09
+:END:
+How do we define happiness?
+How: in what manor, state, method, or condition.
+We: Me, people in society, etc
+Define: To state meaning or describe nature of.
+Happiness: desirable mood. e.i. Positively valent pattern in psychological phenomenon
+What about happiness as i see it is arguable? What is the impact of defining happiness? what are the edge cases?
+** DONE Free write [0/0].
+*** DONE A.
+<2023-03-29 Wed 22:28>.
+What is happiness? What is happiness? What is happiness?!!!!
+"A bond like this can edure for yreas- even a lifetime with proper commitment and effort. And Having at least one close relat\
+ionship like this is vital to your health and happiness" 120
+Happiness is the result of a futiling relationship
+Commitment to a bond results in inescapability, making you overlook negative aspects.
+"The more you experience [love], the more you open up and grow, becoming wiser and more attuned, more resilient and effective\
+, happier and healthier."
+Happiness is the resulting mmood of exposure to love.
+"At the end of the interlude, the volunterrs who had tried to be happy were in a worse mood than were the volunteers who had \
+simply listened to the music. Why? Two reasons./ First we may be able to deliberatly generate positive views of out own exper\
+iences if we close our eyes, sit very still and do nothing else, but research suggests that if we become even sligthly distra\
+cted, these deliberate attempts backfire and ewe end up feeling wrose than before. Second deliberate attempts to cook the fac\
+ts are so transparent that they make us feel cheap." 143
+Happiness is the mood caused when the unconcious is satisfied with out surroundings/behavior.
+Happiness is a desireable state of the psyche, specifically that caused when the subconcious is exposed to affirming influenc\
+es.
+"Inescapable, unevitable, and irrevocable circumstances trigger the psychological immune system, but as with the intensity of\
+ suffering, people do not always recognize that this will happen" 150
+Commitment, volentary or otherwise, affects happiness.
+Commitment to suffering lessons the suffering. Non-commitment to happiness sustaines happiens.
+Happiness is defined as the attainment of a desirable headstate? or the headstate itself?
+*** DONE B.
+:LOGBOOK:
+CLOCK: [2023-03-30 Thu 20:55]--[2023-03-30 Thu 21:17] =>  0:22
+:END:
+I still wish i had more time. The pace of this class is fucking breakneck. Like an essay every week. I'm supposed to get out like 1700 words tonight. I mean only like +500 words, but that's assuming your draft was perfect and you don't need to rewrite anything.
+Part one: brain is silly. gilbert quote about how we cant see the future.
+going with your gut is not the best response.
+however, brains are predictably bad. Therefore their mechanics can be understood.
+Hence, a scientific method can understand them.
+Quote about fredrickson with the meditation.
+There was an actual study done. doing x causes y.
+this is the result of the scientific process.
+Hapiness is defined as a lab measure, ie a target to maximize.
+Part two: the ulysses pact.
+Escapability changes how your brain chooses to feel. Quote about that.
+When something is inescapable, the brain reduces how it feels about it. Therefore, when something may have negative moods attached to it, commit to it 100%.
+uhhh idk maybe ill get a mocha in a lil bit.
+Its commonly thought that love, in the form of a bond, will lead to happiness. but fredrickson says that at times it can fee l great, but at other times it hurts like hell. At times it lifts you up with grand dreams yadada
+a bond is adjacent to happiness. It may help, but it is as likely to hurt.
+By taking a scientific approach, the derirable part of a relationship is the relase of oxytocin, and sharing of positive moods.
+That is to say that a relationship that isnt focused on that is not likely to be focused on happiness.
+rather its likely that the brain will cook facts to make it seem like its actually good.
+quote about that bs.
+*** DONE Look at comments and see where I lost people. Then explain more.
+:LOGBOOK:
+CLOCK: [2023-03-31 Fri 03:21]--[2023-03-31 Fri 04:17] =>  0:56
+CLOCK: [2023-03-31 Fri 03:11]--[2023-03-31 Fri 03:14] =>  0:03
+:END:
+ Happiness is so common an experience, that it often seems straight forward, however, as with all matters, it is poorly judged by feel.
+ A sound scientific method will always produce more sound knowlage than a intuition.
+ without skepticism, one includes misleading things in happiness, and thusly loose sight of it.
+ Gilbert wrote "Clever Hans Was no genious..." 143.
+ Osten's used intuition to describe the scenerio. Specifically, that the horse was learning math, and that teaching Hans math brought Osten hapiness.
+ However, a rigourous test revealed that Hans did not know math, and Osten became quite upset at the wasted time.
+ The same falisy can come from relationships.
+ Fredrickson says about such a bond that "at times it feels great..." 120
+ The bond is an earthly thing, and prone to fluxations and bad times.
+ Whether one's aim is love or happiness or anything else, it can be disoriented when one takes a common, intuitive, or unskeptical approach.
+ I think this is coming togeather now. Im running out of juice, im going to move the last free right to later in the process.
 ** TODO Write thesis again.
-- Initial ::
+:LOGBOOK:
+CLOCK: [2023-03-31 Fri 04:29]--[2023-03-31 Fri 04:37] =>  0:08
+:END:
+- Initial :: Intuition is not a reliable indicator of what will lead to happiness. Therefore to attain happiness reliably, one needs a scientific approach.
+- Iterate :: Happiness is the principal desire. Acurately describing that desire is doomed to go astray unless one uses a skeptical approach.
+- Iterate :: Defining happiness with a skeptical approach ensures one will attain it.
 - Iterate ::
-- Iterate ::
-- Iterate ::
-** TODO New outline.
+** DONE New outline.
+:LOGBOOK:
+CLOCK: [2023-03-31 Fri 04:37]--[2023-03-31 Fri 04:41] =>  0:04
+:END:
 ** TODO Write new draft.
 ** TODO Iterate ideas. [0/8]
 1. [ ] Connect ideas.
@@ -36,6 +112,7 @@ CLOCK: [2023-03-30 Thu 14:06]--[2023-03-30 Thu 14:23] =>  0:17
 5. [ ] Steal peer's ideas.
 6. [ ] Connect ideas to thesis and to prompt.
 7. [ ] Add new ideas.
+8. [ ] Third free write.
 ** TODO Reflect on draft. 
 *** How did you address each of the mottos?
 *** What went well? How and why?
@@ -51,3 +128,26 @@ CLOCK: [2023-03-30 Thu 14:06]--[2023-03-30 Thu 14:23] =>  0:17
 - [ ] Responds to the prompt.
 
 ** TODO Upload.
+* Introduction.
+** Specific Generalization.
+** Introduce Authors.
+** Thesis.
+* Body.
+** Quote.
+** Anal.
+** Quote.
+** Anal.
+** Conclude.
+* Body.
+** Quote.
+** Anal.
+** Quote.
+** Anal.
+** Conclude.
+* Body.
+** Quote.
+** Anal.
+** Quote.
+** Anal.
+** Conclude.
+* Conclusion.
