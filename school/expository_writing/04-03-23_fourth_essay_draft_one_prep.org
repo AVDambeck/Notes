@@ -1,0 +1,101 @@
+* TODO Essay Formula. [5/11]
+** DONE Make prep document.
+:LOGBOOK:
+CLOCK: [2023-04-03 Mon 13:27]--[2023-04-03 Mon 13:40] =>  0:13
+:END:
+** DONE Analyse Prompt.
+:LOGBOOK:
+CLOCK: [2023-04-04 Tue 13:41]--[2023-04-04 Tue 14:04] =>  0:23
+CLOCK: [2023-04-04 Tue 15:09]--[2023-04-04 Tue 15:13] =>  0:04
+:END:
+- Prompt :: To what extent do traumatic events and social groups shape an individual’s understanding of reality.
+- What is a traumatic event? :: An event with such a strong emotional componet that it overloads the amygdala and disrupts the formation of memories.
+- What is the impact of trauma? :: Trauma bonds to isolated sensory elements and triggers dissociation, which both figuratively and metaphorically removes the individual from the present moment.
+- What is a social group? :: Two or more people who engage regularly, and have some shared characteristics.
+- What is the impact of social groups? :: The experience of the individual becomes more like the group's shared experience.
+- What is reality :: The perception of existence, or the totality of things that are existing.
+- What does it mean to have an understanding of reality? :: To have a structuralized knowledge of existence in some way. Variations or disorders in the structure effect mood, life, etc.
+- What is the connection between trautic events and social groups? :: Both altar the way in which one relates to reality, and thereby the way the compose themselves in it.
+- To what extent do traumatic events and social groups shape an individual’s understanding of reality. :: To the extent That ones sociological environment plays a greater role in ones understanding of reality, than physical existence does.
+** DONE Free write.
+:LOGBOOK:
+CLOCK: [2023-04-05 Wed 14:54]--[2023-04-05 Wed 15:28] =>  0:34
+:END:
+Trauma and social groups play two critical roles in affecting an understanding of reality.
+Social groups encourage a conformity to the assumptions of the group.
+On the opposite hand, trauma altars the way the brain functions, putting one into a mode where one is less critical, and overall less present with, reality.
+The extent of this is that one's understanding of reality is dependent more on invisible factors, such as social groups and trauma, than it is upon material factors.
+"In a heartbeat, the present is perceptually and emotionally the past. These fragments of sensations and emotion are the amygdala-mediated memories of an afternoon three decades before." (Stout 416).
+In this illustration, the biomechanics of trauma, particularly those of the amygdala, altar the perception of reality. The experience is literally composed of decade old memories.
+The truth of material existence is removed from the sensations produced by the brain. Only though the different senses is anyone aware of anything that exists. However these senses are produced by biological components which do not perfectly express information. In the case of trauma, the brain has acquired a tendency to remember elements of the traumatic incident rather. When triggered in this way, one understands reality through the lens of the incident.
+Perceptions are what the brain processes as inputs. Despite this appearance, perceptions can be internal, emotional, hallucinatory, or otherwise removed from reality.
+"It's easy to blame failure on the eccentricities of a unanimous judge, but it's much more difficult to blame failure on the eccentricities of a unanimous jury." (Gilbert 146)
+In the event of a failure, placing the burden of that failure is easy when one's social group is only one other person, but when one is in a large group, doing so becomes hard, even impossible.
+When there is a failure, it is in reality. But the blame for that failure is in one's mind, or more accurately in the part of the mind which formulates an understanding of reality. Depending on one's social context, that understanding part of the mind responds differently. Specifically, when there is a single scape goat, it is easy to understand the reality of oneself as blameless and innocent. However the opposite is also true.
+Blame is a kind of causality, specifically it is the quality of being the source of an undesirable outcome. It exists only as an understanding; without an intelligence to connect events, the physics of the universe simply happens without thought. Whatever influences blame can then influence how one understands reality, even if that influence does not actually effect the events.
+*** Just parking the stuff I did in that worksheet here.
+:LOGBOOK:
+CLOCK: [2023-04-04 Tue 22:27]--[2023-04-04 Tue 23:03] =>  0:36
+CLOCK: [2023-04-04 Tue 19:10]--[2023-04-04 Tue 19:28] =>  0:18
+CLOCK: [2023-04-04 Tue 17:45]--[2023-04-04 Tue 18:55] =>  1:10
+:END:
+Quote:
+"Because these volunteers suffered greatly, the intensity of their suffering triggered their defensive systems, which immediately began working to help them achieve a credible positive view of their experience." (Gilbert 148)
+Paraphrase:
+That is to say that when one pushes themselves into more painful experiences, they justify the pain they go through.
+Explain:
+The body is naturally adverse to painful experiences. When one is part of a group, however, that sociological environment changes ones response to justify the experience. Despite the real physical elements to the contrary, one comes to understand the pain as an acceptable part of reality. Whether or not the pain was worthwhile is weighed against the reputation of the group. And because the group is prestigious, the pain must have been worthwhile.
+Close read:
+There is a link between suffering, that is being forced into an experience with negative valence or desirability, and the development of a credible positive valence of the whole experience. Credible here means not true or reliable, but believable; harmonious with what one already believes.
+Quote:
+"Julia had come to assume, as abused children do, that she must be a horrible person who deserved these punishments" (Stout 420).
+Paraphrase:
+In other words, Julia manufactured a way to understand reality that was in harmony with Julia was already believing and experiencing.
+Explain:
+Julia was a member of an abusive family. That social group imbued a very powerful mindset into Julia. The social reality, that the family was permanent and just was the scale against which the pain was weighed. The pain was made out to be acceptable because the group was acceptable. Of course this is only half the story. In Julia's case, the experiences were so powerful as to cause trauma, and altar the memory and processing of the experience. This compounds the effect produced by the group. That is that the narrative which presents the valance of the group becomes the preferred understanding with which to view reality.
+Close Read:
+Julia's assumption was informed as much by their sociological environment as by internal factors. However the product of assumption is belief, that perception closely held as fact, despite its dubious relation to actual truth.
+Linking Words:
+Stout: Assume.
+Gilbert: Credible.
+Explain the connection:
+Both of these cases demonstrate how social groups inform what is and isn't credible, that is what is reasonable to assume. This limits the range of beliefs to those that contain a favorable view of the group, and enforce an understanding of reality were this belief is true.
+Connecting: Credibility.
+Quote:
+"The driving was automatically carried out by some part of the mind, while the self part of the mind was worrying, daydreaming or listening to the radio. The experience is that of arriving at home without remembering the process of the trip" (Stout 426).
+Paraphrase:
+That is to say that preforming complex tasks does not require a much attention; tasks such as driving can be preformed automatically.
+Explain:
+Common sense would say that one needs to be present for driving, however this is simply not the case. When driving, there are particular rules and customs a driver conforms to. The driver has an individual will, to get from origin to destination, but during their drive, they melt into the larger society of drivers. The driver's understanding of reality is reduced. They go from being present and engaged in the moment, to letting it pass by unprocessed.
+Close read:
+Driving is an automatic state. That is a state of consciousness in which presence and ego are reduced. During this state, the brain is still a complex and capable decision maker, however they are not engaged in understanding reality beyond the surface level required by the immediate circumstance.
+Quote:
+"We know now that systems like ant colonies don't have real leaders, that the very idea of an ant 'queen' is misleading. But the desire to find pacemakers in such systems has always been powerful" (Gilbert 190).
+Paraphrase:
+In other words, although there is an appearance of a central leader or pacemaker, such as an ant queen, such are only a label for an invisible figurehead, which does not in reality exist.
+Explain:
+Social groups present a particular narrative of reality. Such narratives usually include order, direction, and a central figure. Often it can seem as though someone in charge, when in reality there is only ever a collection of individuals. Still though, this narrative is impressed upon the individuals. They are then subconsciously asked to include this narrative in their understanding of reality. Generally, this narrative is automatically accepted.
+Close Read:
+A pacemaker is a device that is surgically implanted to help the heart keep rhythm. It sends out regular electric pulses, which the rest of the heart responds to. Used metaphorically, a pacemaker is that kind of conductor which keeps the system in line through dictation.
+Linking words:
+Stout: self.
+Johnson: pacemaker.
+Connecting: ego.
+Explain the connection:
+The self is often thought as being the center of the individual. The self is a kind of pacemaker; If there was not a self to conduct the individual, they wouldn't be able to function. However the individual can function without a self being present. The components of the system that is the individual are like an ant colony in that way: each individual action shares a common goal, and an when a single part appears to be important, that part takes on an illusory leadership position; In the ant colony, the queen's unique status is elevated to monarch. In the human, the self or ego is elevated to conductor.
+** DONE Write theses.
+CLOCK: [2023-04-05 Wed 16:02]--[2023-04-05 Wed 16:30] =>  0:28
+- Initial :: To the extent That ones sociological environment plays a greater role in ones understanding of reality, than physical existence does.
+- Iterate :: Because experience of existence is mediated by one's psychology, invisible factors, such as trauma or social groups, play a greater role in one's understanding of reality than existence.
+- Iterate :: Because data on its own is meaningless with out an interpretive framework, one's psychophysiological context does more to shape one's understanding of reality than reality does.
+- Iterate :: Psychlogical factors, such as trauma, and social factors, such as social groups, control how real something gets to be percieved as. And thereby how one understands reality.
+- Still unsatisfied :: Because reality is the aggregate of what appears real, factors that effect the perception of realness shape how one understands reality more than the objects of reality themselves.
+** DONE Sketch outline.
+:LOGBOOK:
+CLOCK: [2023-04-05 Wed 16:33]--[2023-04-05 Wed 17:02] =>  0:29
+:END:
+** TODO Comply with mla.
+** TODO Get away from draft.
+** TODO Reflect on draft.
+** TODO Final revisions.
+** TODO Submit.
