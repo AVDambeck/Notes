@@ -1,4 +1,4 @@
-* TODO Essay Formula. [7/11]
+* DONE Essay Formula. [0/0]
 ** DONE Make prep document.
 :LOGBOOK:
 CLOCK: [2023-04-03 Mon 13:27]--[2023-04-03 Mon 13:40] =>  0:13
@@ -96,7 +96,4 @@ CLOCK: [2023-04-05 Wed 16:33]--[2023-04-05 Wed 17:02] =>  0:29
 :END:
 ** DONE Draft!
 ** DONE Comply with mla.
-** TODO Get away from draft.
-** TODO Reflect on draft.
-** TODO Final revisions.
-** TODO Submit.
+** DONE Submit.
