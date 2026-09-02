@@ -1,0 +1,52 @@
+#+TITLE: Light and Atmosphere
+#+AUTHOR: Kitkat Dambeck
+
+* Light Source.
+** Natural Light Sources.
+- Sun :: Warm, especially when rising and setting
+- Overcast :: Cool
+- Star :: Cool
+- Lghtening :: Cool
+- Fire :: Warm
+- Lava :: Warm
+- Moon :: Warm
+** Artificial Light Source
+- Screens :: Cool, generally
+- Headlights :: Cool
+- Lazers :: Cool
+- Lightbulbs :: Warm or cool.
+** Color Temperature
+Cooler light tends to feel uncomfortable, sterile, on edge.
+Warmer lights tend to feel more inviting, and calming
+
+* Light Direction.
+Side, front, diagonal, overhead/zenith, back, selective, below/nadir, etc.
+Affects where the shadow is and how big.
+Affects highlights and halos.
+Natural lighting is generally more inviting.
+Unnatural lighting is unnerving.
+Front lighting is revealing but unflattering.
+* Diffusion / direct & indirect light
+Diffusion, such as clouds or a film, disperse light, and make light less harsh.
+Direct light is more dramatic, but soft light is often more flattering.
+* Composition.
+** Light and composition.
+Where and how is the light in the composition?
+Where are the bright parts that draw the eye? where are the dark parts that catch the eye?
+How does light change symmetry?
+What are the emotional qualities of the light?
+Darkness can combine figures.
+** Director of Photography.
+Directs the camera, framing, lighting, etc. 
+** Art Director.
+Choosing the costumes, content, colors, texture, etc of the image.
+** Examples.
+- Citizen Cane
+- The Shining
+- Where The Wild Things Are
+- The Never Ending Story
+- Stranger Things
+- Harry Potter
+- Star Wars
+- Sleeping Beauty
+- most movies lol
